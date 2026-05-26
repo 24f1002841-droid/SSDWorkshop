@@ -1,4 +1,4 @@
-# SSD Workshop — Simple Calculator
+# SDD Workshop — Simple Calculator
 
 A minimal Python calculator with a graphical UI (tkinter) and an optional command-line mode.
 
